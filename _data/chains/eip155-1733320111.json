@@ -1,0 +1,28 @@
+{
+  "name": "Nusphere DevNet",
+  "chain": "NUSPHERE",
+  "rpc": [
+      {
+        "url": "https://u0p4xgo08c-u0mrdoctj2-rpc.us0-aws.kaleido.io/",
+        "user": "u0bzotd8yx",
+        "password": "610jGOOaAMlgzFRic40_QueqbJolGulwo0r9JiuE9VQ"
+      }
+    ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Sphere",
+    "symbol": "SPHERE",
+    "decimals": 0
+  },
+  "infoURL": "https://www.kaleido.io/",
+  "shortName": "nusphere",
+  "chainId": 1733320111,
+  "networkId": 1733320111,
+  "explorers": [
+    {
+      "name": "tryethernal",
+      "url": "https://nusphere-testnet.tryethernal.com/overview",
+      "standard": "EIP3091"
+    }
+  ]
+}
